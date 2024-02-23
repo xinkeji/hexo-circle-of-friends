@@ -21,7 +21,7 @@ LINK:
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: true
+  enable: false
   json_api: https://raw.githubusercontent.com/flow2000/static-resources/master/json/sites.json
   list:
   - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
