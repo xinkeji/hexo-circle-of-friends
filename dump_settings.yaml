@@ -16,8 +16,8 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://g0f.cn/friends
-  theme: butterfly
+- link: https://g0f.cn/friends/
+  theme: common1
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
