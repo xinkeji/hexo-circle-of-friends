@@ -22,7 +22,7 @@ MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
-  json_api: ''
+  json_api: https://raw.githubusercontent.com/g0fcn/hugo/main/static/friends.json?token=GHSAT0AAAAAACNYXVHRZT4FWMPTGKJYDV6SZOY3YKQ
   list:
   - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
     - https://noionion.top/
